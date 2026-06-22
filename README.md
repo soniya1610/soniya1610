@@ -51,6 +51,16 @@
 - Object Oriented Programming (OOPs)
 - DBMS
 - Operating Systems
+
+## 📈 Currently Learning
+- Spring Boot REST APIs
+- Advanced DSA (LeetCode)
+- Frontend Development (React.js)
+
+## 🎯 Goals
+- Become a Full Stack Java Developer
+- Contribute to Open Source
+- Crack top product-based companies
 ## GitHub Stats
 
 ![Soniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soniya1610&show_icons=true&theme=radical)
