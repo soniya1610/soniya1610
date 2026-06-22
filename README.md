@@ -1,12 +1,22 @@
 # Hi there 👋, I'm Soniya Meena
 
-### Aspiring Software Engineer | CSE Student | Java Developer
+<table>
+<tr>
+<td>
 
-- 🎓 B.Tech CSE Student at BPSMV
-- 💻 Currently learning DSA, Java, Spring Boot
-- 🚀 Interested in Backend Development & AI
-- 📫 Reach me: meenasonia243@gmail.com
+## About Me
+- 🎓 B.Tech CSE Student
+- 💻 Java Developer
+- 🚀 Learning Spring Boot
 
+</td>
+<td>
+
+<img src="YOUR_GIF_LINK" width="300"/>
+
+</td>
+</tr>
+</table>
 ## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
