@@ -4,15 +4,20 @@
 <tr>
 <td>
 
-## About Me
-- 🎓 B.Tech CSE Student
-- 💻 Java Developer
-- 🚀 Learning Spring Boot
+<h2>About Me</h2>
+<ul>
+<li>🎓 B.Tech CSE Student at BPSMV</li>
+<li>💻 Skilled in Java, C++, SQL</li>
+<li>🧠 Strong interest in DSA & Problem Solving</li>
+<li>🌐 Learning Frontend Development</li>
+<li>⚙️ Exploring Backend with Spring Boot</li>
+<li>🚀 Passionate about Software Engineering</li>
+</ul>
 
 </td>
 <td>
 
-<img src="YOUR_GIF_LINK" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 </td>
 </tr>
