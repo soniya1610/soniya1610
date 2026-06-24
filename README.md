@@ -65,7 +65,7 @@
 
 ![Soniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soniya1610&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=soniya1610&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=soniya1610&theme=radical&cache_seconds=0)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soniya1610&layout=compact&theme=radical)
 
