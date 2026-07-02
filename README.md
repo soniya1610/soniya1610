@@ -61,13 +61,20 @@
 - Become a Full Stack Java Developer
 - Contribute to Open Source
 - Crack top product-based companies
-## GitHub Stats
 
-![Soniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soniya1610&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=soniya1610&theme=radical&cache_seconds=0)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soniya1610&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soniya1610&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=soniya1610&theme=radical&cache_seconds=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniya1610&layout=compact&theme=radical&cache_seconds=1800" />
+</p>
 
 ## Featured Projects
 
