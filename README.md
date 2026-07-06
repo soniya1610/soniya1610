@@ -62,16 +62,11 @@
 - Contribute to Open Source
 - Crack top product-based companies
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=soniya1610&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=soniya1610&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=soniya1610&theme=tokyonight"/>
 </p>
-
-<!-- <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniya1610&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
 
 ## Featured Projects
 
